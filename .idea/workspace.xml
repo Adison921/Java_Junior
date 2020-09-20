@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be1f5e0f-3f24-439f-a840-ca3fa4ef44e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day01/Identifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/VariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day01/VariableTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day01/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_Junior/day01/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_Junior/day01/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day01/Identifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day01/Identifier.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.VariableTest">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day01.Hello" />
       <module name="Java_Junior" />
@@ -95,8 +98,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Identifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.Identifier" />
+      <module name="Java_Junior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.VariableTest" />
+      <module name="Java_Junior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariableTest" />
+        <item itemvalue="Application.Identifier" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -122,7 +153,8 @@
       <workItem from="1600183723046" duration="693000" />
       <workItem from="1600226761111" duration="1911000" />
       <workItem from="1600322497356" duration="31000" />
-      <workItem from="1600323217891" duration="3658000" />
+      <workItem from="1600323217891" duration="3798000" />
+      <workItem from="1600328625213" duration="4709000" />
     </task>
     <servers />
   </component>
@@ -130,10 +162,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600142622698">
+    <state x="525" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600360494532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600142622698" />
+    <state x="525" y="156" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600360494532" />
     <state x="709" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1600096463250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -142,22 +174,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600142629516" />
-    <state width="1877" height="183" key="GridCell.Tab.0.bottom" timestamp="1600074094468">
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom" timestamp="1600361469841">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600074094468" />
-    <state width="1877" height="183" key="GridCell.Tab.0.center" timestamp="1600074094467">
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600361469841" />
+    <state width="1877" height="183" key="GridCell.Tab.0.center" timestamp="1600361469836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600074094467" />
-    <state width="1877" height="183" key="GridCell.Tab.0.left" timestamp="1600074094467">
+    <state width="1877" height="183" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600361469836" />
+    <state width="1877" height="183" key="GridCell.Tab.0.left" timestamp="1600361469835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600074094467" />
-    <state width="1877" height="183" key="GridCell.Tab.0.right" timestamp="1600074094468">
+    <state width="1877" height="183" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600361469835" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right" timestamp="1600361469839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600074094468" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600361469839" />
     <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1600098211929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

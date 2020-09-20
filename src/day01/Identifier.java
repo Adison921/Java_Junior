@@ -6,7 +6,8 @@ package day01;
  */
 public class Identifier {
     public static void main(String[] args) {
-
+        int myNumber = 520;
+        System.out.println(myNumber);
     }
 
 }
